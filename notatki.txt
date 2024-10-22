@@ -1,0 +1,7 @@
+- można kożystać z bibiliorek ale funkcjonalnosci piszemy samodzielnie
+- biblioteka gmpy2
+- ciekawe: time-lock puzzle
+
+(((a^2)^2)^2)*a)^2)*a
+
+do 6 test fermata zaimplementowac na przyklad
