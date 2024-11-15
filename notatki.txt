@@ -5,3 +5,6 @@
 (((a^2)^2)^2)*a)^2)*a
 
 do 6 test fermata zaimplementowac na przyklad
+
+LAB 3
+F_2 ^8 -> (1001011) - zapis bitowy na 8 bitach tj. 1 bajt
